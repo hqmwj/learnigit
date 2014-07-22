@@ -12,3 +12,5 @@ git add命令与git commit -m "distrubted"
 git diff在提交之前查看不一样的地方
 
 git status在提交之前查询状态
+
+git reflog是查询已经操作过的日志
